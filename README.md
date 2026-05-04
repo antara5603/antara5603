@@ -23,16 +23,43 @@ CS Student & aspiring Full Stack Developer and AI Enthusiast
   </a>
 </p>
 
-### Socials
+### 🤝 Connect with Me
 
-<p align="left"> <a href="https://www.github.com/antara5603" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<h3 align="center">🔥 GitHub Stats</h3>
+<p align="left">
+  <a href="mailto:antara5603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="http://portfolio-antara-alpha.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/antara5603" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<p align="center">
-  <a href="https://github.com/antara5603">
-    <img src="https://github-readme-stats.vercel.app/api?username=antara5603&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" alt="antara5603's GitHub stats" />
-  </a>
-  <a href="https://github.com/antara5603">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antara5603&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" alt="Top Languages" />
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 DSAHub</h3>
+      <p align="center">A comprehensive platform for Data Structures and Algorithms with streak tracking and dynamic problem solving features.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌾 Kisanyug</h3>
+      <p align="center">An agriculture tech platform leveraging AI and the MERN stack to empower farmers and modernize agricultural workflows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=antara5603&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="antara5603" />
   </a>
 </p>
