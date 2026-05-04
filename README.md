@@ -26,8 +26,19 @@ CS Student & aspiring Full Stack Developer and AI Enthusiast
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/antara5603" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<h3 align="center">🔥 GitHub Stats & Streaks</h3>
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <a href="https://github.com/antara5603">
+    <img src="https://github-readme-stats.vercel.app/api?username=antara5603&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" alt="antara5603's GitHub stats" />
+  </a>
+  <a href="https://github.com/antara5603">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antara5603&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="165" alt="antara5603's GitHub streak" />
+  </a>
+</p>
 
-<a href="http://www.github.com/antara5603"><img src="https://github-readme-stats.vercel.app/api?username=antara5603&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="antara5603's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/antara5603">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antara5603&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
